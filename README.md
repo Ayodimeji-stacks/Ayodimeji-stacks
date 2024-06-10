@@ -16,8 +16,8 @@ I am a School of Code graduate with full-stack development experience and a back
 
 ## Tools & Tech 
 
-![image](https://github.com/Ayodimeji-stacks/Ayodimeji-stacks/assets/149108938/f8d7c525-20c2-4df5-b0cc-c4d18cad4f68)
-![image](https://github.com/Ayodimeji-stacks/Ayodimeji-stacks/assets/149108938/cb1db2a9-6dd4-479d-b2a5-925dc88c11e1)
+![nextjs](https://github.com/Ayodimeji-stacks/Ayodimeji-stacks/assets/149108938/a889f331-3a97-4822-b999-c3e0358f2e25)
+![figma](https://github.com/Ayodimeji-stacks/Ayodimeji-stacks/assets/149108938/80973303-6156-4f52-bbd1-fd655d1adc89)
 ![image](https://github.com/Ayodimeji-stacks/Ayodimeji-stacks/assets/149108938/6a7e44ed-719b-406e-b4a4-e060f1da8c38)
 ![image](https://github.com/Ayodimeji-stacks/Ayodimeji-stacks/assets/149108938/cb1f0873-0cb5-44f3-ad41-40815d4f847c)
 ![image](https://github.com/Ayodimeji-stacks/Ayodimeji-stacks/assets/149108938/3aa24b35-84dd-4134-9d44-f6c816e4a8c6)
@@ -28,6 +28,8 @@ I am a School of Code graduate with full-stack development experience and a back
 ![image](https://github.com/Ayodimeji-stacks/Ayodimeji-stacks/assets/149108938/d6ca9f1b-8bb4-4b4a-8dab-a7448886d645)
 ![image](https://github.com/Ayodimeji-stacks/Ayodimeji-stacks/assets/149108938/a5de53e4-6723-4606-874e-14fa328784c4)
 
+
+GitJavaScriptTypeScriptPythonVS CodeHTML5ReactNextJsTailwindCSSCSS3SassViteNodeJSExpressFast APIMongoDBMySQLPostgreSQLRenderSupabaseFigmaAmazon Web ServicesDocker
 ## GitHub Stats
 
 
