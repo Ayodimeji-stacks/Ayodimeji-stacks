@@ -14,7 +14,7 @@ I am a School of Code graduate with full-stack development experience and a back
 - 💬 Ask me about Cheetahs
 - 😄 Pronouns: He/Him
 
-## Tools & Tech 
+## Skills
 
 ![nextjs](https://github.com/Ayodimeji-stacks/Ayodimeji-stacks/assets/149108938/a889f331-3a97-4822-b999-c3e0358f2e25)
 ![figma](https://github.com/Ayodimeji-stacks/Ayodimeji-stacks/assets/149108938/80973303-6156-4f52-bbd1-fd655d1adc89)
