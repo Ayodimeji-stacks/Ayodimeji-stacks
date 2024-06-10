@@ -3,7 +3,7 @@
 
 ## About me 👋
 
-I am a School of Code graduate with full-stack development experience and a background in Nutrition. I am passionate about Web3, Crypto, Memes, Football (Chelsea), Nature, Quizzes, Puzzles, problem-solving exercises, music & Poetry.
+I am a School of Code graduate with full-stack development experience and a background in Nutrition. I am passionate about Web3, Crypto, Memes, Football (Chelsea), Nature, Quizzes, Puzzles, problem-solving exercises, Music & Poetry.
 
 ⚡️ Fun fact: My name, Ayodimeji, means "Joy becomes two" in my native language, Yoruba.
 
