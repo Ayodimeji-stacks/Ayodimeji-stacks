@@ -7,14 +7,14 @@ I am a School of Code graduate with full-stack development experience and a back
 
 ⚡️ Fun fact: My name, Ayodimeji, means "Joy becomes two" in my native language, Yoruba.
 
-- 🔭 I’m currently working on an eCommerce website with tinder-like functionality
+- 🔭 I’m currently working on the Kings Heath Clangers App
 - 🌱 I’m currently learning Rust & Solidity
 - 👯 I’m looking to collaborate on building an MEv arbitrage bot
 - 🤔 I’m looking for help with building an MEV arbitrage bot :)
 - 💬 Ask me about Cheetahs
 - 😄 Pronouns: He/Him
 
-## Tools & Tech
+## Tools & Tech 
 
 ![image](https://github.com/Ayodimeji-stacks/Ayodimeji-stacks/assets/149108938/f8d7c525-20c2-4df5-b0cc-c4d18cad4f68)
 ![image](https://github.com/Ayodimeji-stacks/Ayodimeji-stacks/assets/149108938/cb1db2a9-6dd4-479d-b2a5-925dc88c11e1)
@@ -27,6 +27,8 @@ I am a School of Code graduate with full-stack development experience and a back
 ![jira-logo-FD39F795A7-seeklogo com](https://github.com/Ayodimeji-stacks/Ayodimeji-stacks/assets/149108938/36931ac2-ed2c-4c32-9830-a5fc0f9d975b)
 ![image](https://github.com/Ayodimeji-stacks/Ayodimeji-stacks/assets/149108938/d6ca9f1b-8bb4-4b4a-8dab-a7448886d645)
 ![image](https://github.com/Ayodimeji-stacks/Ayodimeji-stacks/assets/149108938/a5de53e4-6723-4606-874e-14fa328784c4)
+
+## GitHub Stats
 
 
 
