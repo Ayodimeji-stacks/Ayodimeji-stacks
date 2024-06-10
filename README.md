@@ -9,7 +9,6 @@ I am a School of Code graduate with full-stack development experience and a back
 
 - 🔭 I’m currently working on the Kings Heath Clangers App
 - 🌱 I’m currently learning Rust & Solidity
-- 👯 I’m looking to collaborate on building an MEV arbitrage bot
 - 🤔 I’m looking for help with building an MEV arbitrage bot :)
 - 💬 Ask me about Cheetahs
 - 😄 Pronouns: He/Him
