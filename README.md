@@ -29,9 +29,9 @@ I am a School of Code graduate with full-stack development experience and a back
 ![supabase](https://github.com/Ayodimeji-stacks/Ayodimeji-stacks/assets/149108938/4d0bb5f4-7d77-412f-901f-e6d4cebaa573)
 
 
-
 ## GitHub Stats
 
+![Ayodimeji's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayodimeji-stacks&show_icons=true&theme=tokyonight)
 
 
 
